@@ -1,4 +1,2 @@
-xxxx xxxx 0 0
-James james@king.com 1 23
-Curry Curry@threepoints.com 2 30
-Durant Dyrant@softegg.com 3 35
+xxxx xxx xx x
+Curry Curry@ThreePoints.com 2 30

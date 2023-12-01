@@ -1,2 +1,2 @@
-xxxx xxxx xxxx
-DS2033 23 100
+xxx xx x
+DS2033 23 95
